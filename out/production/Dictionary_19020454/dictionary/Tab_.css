@@ -1,0 +1,39 @@
+#Tab0 {
+    -fx-background-color: #e9967a;
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+    -fx-padding: 10 45 10 45;
+}
+
+#Tab {
+    -fx-background-image: url("bg3.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 700 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#Tab1 {
+    -fx-background-image: url("bg6.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#Tab2 {
+    -fx-background-image: url("bg12.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#Tab3 {
+    -fx-background-image: url("bg10.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+

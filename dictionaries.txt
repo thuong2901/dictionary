@@ -1,0 +1,20 @@
+black
+màu đen
+white
+màu trắng
+pink
+màu hồng
+blue
+màu xanh da trời
+green
+màu xanh lá cây
+table
+cái bàn
+bottle
+cái bình nước
+computer
+máy tính
+headphone
+tai nghe chùm tai
+earphone
+tai nghe nhét tai

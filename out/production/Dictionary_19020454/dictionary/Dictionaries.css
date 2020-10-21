@@ -1,0 +1,12 @@
+
+.Button1 {
+    -fx-background-color: #90ee90;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+#Button2  {
+    -fx-background-color: #ffdead;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
